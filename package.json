@@ -1,6 +1,6 @@
 {
   "name": "branch_name",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "build/index.js",
   "repository": "https://github.com/vazco/branch_name.git",
   "author": "vazco",
